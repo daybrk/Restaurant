@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="add_to_basket">Добавить в корзину</string>
+
+    <string name="make_order">Заказать</string>
+    <string name="confirm">Подтвердить</string>
+
+    <string name="fio_hint">ФИО</string>
+    <string name="phone_hint">Номер телефона</string>
+    <string name="count_hint">Сколько человек будет</string>
+    <string name="time_hint">Выбирите время</string>
+    <string name="cultures">Культурная программа</string>
+
+    <string name="time_limit">Время можно выбрать с 8:00 до 20:00</string>
+    <string name="count_limit">не более 8 человек</string>
+
+    <string name="white_them">Белая тема</string>
+    <string name="black_them">Чёрная тема</string>
+</resources>
